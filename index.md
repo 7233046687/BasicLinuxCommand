@@ -14,9 +14,9 @@
 
 * [Remove multiple files with a single command](#step6-remove-multiple-files-with-a-single-command)
 
-* [Remove content from the folder without removing folder](#step7-create-multiple-foldersa-z-with-a-single-command)
+* [Remove content from the folder without removing folder](#step7-remove-content-from-the-folder-without-removing-folder)
 
-* [Create multiple folder(a-z) with a single command](#step8-remove-content-from-the-folder-without-removing-folder)
+* [Create multiple folder(a-z) with a single command](#step8-create-multiple-foldersa-z-with-a-single-command)
 
 
 
